@@ -1,5 +1,5 @@
 /**
- * File      : MOperasiTitik.java		01/03/23
+ * File      : OperasiTitik.java		01/03/23
  * Penulis   : Iqbal Ali Akbar Muhammad
  * Deskripsi : Kelas yang berisi OperasiTitik
  * 
