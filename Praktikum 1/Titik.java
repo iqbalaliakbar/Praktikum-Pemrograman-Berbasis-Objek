@@ -1,3 +1,9 @@
+/**
+File : Titik.java
+Nama : Iqbal Ali Akbar Muhammad
+NIM : 24060121130046
+
+**/
 class Titik{
  double absis;
  double ordinat;
