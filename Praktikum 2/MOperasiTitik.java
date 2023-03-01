@@ -1,6 +1,6 @@
 /**
  * File      : MOperasiTitik.java		01/03/23
- * Penulis   : Fahrel Gibran Alghany
+ * Penulis   : Iqbal Ali Akbar Muhammad
  * Deskripsi : Kelas yang berisi main dari OperasiTitik
  * 
  */
