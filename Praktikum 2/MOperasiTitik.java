@@ -1,3 +1,10 @@
+/**
+File : Titik.java
+Nama : Iqbal Ali Akbar Muhammad
+NIM : 24060121130046
+Lab : PBO C2
+Tanggal : 1 Maret 2023
+**/
 class MOperasiTitik{
  public static void main(String[] args){
   Titik t1 = new Titik(1.0, 2.0);
