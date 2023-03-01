@@ -1,10 +1,9 @@
 /**
-File : OperasiTitik.java
-Nama : Iqbal Ali Akbar Muhammad
-NIM : 24060121130046
-Lab : PBO C2
-Tanggal : 1 Maret 2023
-**/
+ * File      : MOperasiTitik.java		01/03/23
+ * Penulis   : Iqbal Ali Akbar Muhammad
+ * Deskripsi : Kelas yang berisi OperasiTitik
+ * 
+ */
 class OoperasiTitik{
  private void refleksiSumbuX(Titik titik){
   double ordinat = titik.getOrdinat(); 
