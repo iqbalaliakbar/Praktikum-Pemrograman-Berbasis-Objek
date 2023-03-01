@@ -1,10 +1,9 @@
 /**
-File : MTitik.java
-Nama : Iqbal Ali Akbar Muhammad
-NIM : 24060121130046
-Lab : PBO C2
-Tanggal : 22 Februari 2023
-**/
+ * File      : MTitik.java		22/02/23
+ * Penulis   : Iqbal Ali Akbar Muhammad
+ * Deskripsi : Kelas yang berisi main dari Titik
+ * 
+ */
 
 class Mtitik{
  public static void main (String[] args){
