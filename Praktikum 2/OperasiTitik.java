@@ -1,3 +1,10 @@
+/**
+File : Titik.java
+Nama : Iqbal Ali Akbar Muhammad
+NIM : 24060121130046
+Lab : PBO C2
+Tanggal : 1 Maret 2023
+**/
 class OoperasiTitik{
  private void refleksiSumbuX(Titik titik){
   double ordinat = titik.getOrdinat(); 
