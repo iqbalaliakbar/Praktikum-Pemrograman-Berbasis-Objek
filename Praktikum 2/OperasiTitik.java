@@ -1,5 +1,5 @@
 /**
-File : Titik.java
+File : OperasiTitik.java
 Nama : Iqbal Ali Akbar Muhammad
 NIM : 24060121130046
 Lab : PBO C2
