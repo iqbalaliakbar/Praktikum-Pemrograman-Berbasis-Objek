@@ -2,7 +2,7 @@
 File : Titik.java
 Nama : Iqbal Ali Akbar Muhammad
 NIM : 24060121130046
-
+Lab : PBO C2
 **/
 class Titik{
  double absis;
